@@ -35,9 +35,13 @@ Fine-tuned DistilBERT on airline tweets — achieves 92% F1 on a held-out test s
 ## Skills
 
 **Languages:** Python, SQL, R
+
 **ML / Stats:** scikit-learn, XGBoost, PyTorch, statsmodels
+
 **Data:** pandas, NumPy, Spark
+
 **Viz:** matplotlib, seaborn, Plotly
+
 **Tools:** Git, AWS, Jupyter
 
 ---
