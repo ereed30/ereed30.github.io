@@ -46,5 +46,5 @@ End-to-end pipeline of Citibike trip data, lands it in MotherDuck (DuckDB), and 
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]({https://www.linkedin.com/in/evan-reed-31122075/})
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:{ereed6327@gmail.com})
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evan-reed-31122075/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ereed6327@gmail.com)
