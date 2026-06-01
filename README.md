@@ -1,6 +1,8 @@
 # Hi, I'm Evan 👋
 
-### Data Analyst → Analytics Engineer | Turning messy data into trusted, decision-ready insights
+### BI Analyst / Analytics Engineer
+
+####Turning messy data into trusted, decision-ready insights
 
 🌐 **Live site:** [ereed30.github.io](https://ereed30.github.io)
 
