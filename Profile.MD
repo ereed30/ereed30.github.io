@@ -15,32 +15,14 @@ I build the layer between raw data and the dashboards people actually use — mo
 
 ## 🛠️ Tech Stack
 
-**Languages & Querying**
-
-SQL
-Python 
-R
-
-**Data Warehouses & Storage**
-
-RedShift
-BigQuery
-DuckDB
-
-
-**Transformation & Modeling**
-
-DBT 
-
-**BI & Visualization**
-
-
-Power BI
-
-
-**Cloud & Orchestration**
-
-
+| Area | Tool |
+|---|---|
+| Languages & Querying | SQL, Python, R|
+| Storage / Warehouse | RedShift, BigQuery, DuckDB |
+| Transformation | Power BI Data Flows, dbt (dbt-duckdb adapter) |
+| Modeling | Dimensional / star schema |
+| Visualization | Power BI |
+ 
 ---
 
 ## 📊 Featured Projects
