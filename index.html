@@ -4,7 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Evan Reed — Analytics Engineering Portfolio</title>
-  <script src="https://jsdelivr.net"></script>
   <style>
     :root {
       --bg: #fafaf7;
@@ -129,26 +128,6 @@
     </div>
    
   </div>
-
-   <div id="content">Loading documentation...</div>
-
-    <script>
-        // Fetch the local README.md file relative to this HTML file
-        fetch('./README.md')
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Failed to load README.md');
-                }
-                return response.text();
-            })
-            .then(markdownText => {
-                // Use Marked.js to transform raw markdown text into HTML
-                document.getElementById('content').innerHTML = marked.parse(markdownText);
-            })
-            .catch(error => {
-                document.getElementById('content').innerHTML = `<p style="color:red;">Error: ${error.message}</p>`;
-            });
-    </script>
 
   <footer>
     Built with HTML + GitHub Pages.
