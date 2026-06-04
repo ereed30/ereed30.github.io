@@ -30,8 +30,8 @@ I build the layer between raw data and the dashboards people actually use — mo
 ## 📊 Featured Projects
 
 ### 🚲 Citibike Analytics Engineering Pipeline
-End-to-end pipeline of Citibike trip data, lands it in MotherDuck (DuckDB), and transforms it with dbt into a star schema for analysis.
-`Python` · `DuckDB / MotherDuck` · `dbt` · `Dimensional Modeling`
+End-to-end pipeline of Citibike trip data, lands it in Google Big Query, and transforms it with dbt into a star schema for analysis.
+`Python` · `Google BigQuery` · `dbt` · `Dimensional Modeling`
 🔗 **[View project →](https://github.com/ereed30/nyc-citi-bike)**
 
 
