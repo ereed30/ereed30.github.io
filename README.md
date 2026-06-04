@@ -4,7 +4,6 @@
 
 #### Turning messy data into trusted, decision-ready insights
 
-🌐 **Live site:** [ereed30.github.io](https://ereed30.github.io)
 
 I build the layer between raw data and the dashboards people actually use — modeling, testing, and documenting data so that the numbers in a report can be trusted. My background spans **business intelligence** (dashboards, reporting, stakeholder analytics) and **analytics engineering** (pipelines, dimensional design).
 
