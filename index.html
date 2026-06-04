@@ -129,6 +129,24 @@
    
   </div>
 
+  <script>
+        // Fetch the local README.md file relative to this HTML file
+        fetch('./README.md')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Failed to load README.md');
+                }
+                return response.text();
+            })
+            .then(markdownText => {
+                // Use Marked.js to transform raw markdown text into HTML
+                document.getElementById('content').innerHTML = marked.parse(markdownText);
+            })
+            .catch(error => {
+                document.getElementById('content').innerHTML = `<p style="color:red;">Error: ${error.message}</p>`;
+            });
+    </script>
+
   <footer>
     Built with HTML + GitHub Pages.
   </footer>
