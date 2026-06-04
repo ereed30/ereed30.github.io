@@ -8,7 +8,7 @@
 
 I build the layer between raw data and the dashboards people actually use — modeling, testing, and documenting data so that the numbers in a report can be trusted. My background spans **business intelligence** (dashboards, reporting, stakeholder analytics) and **analytics engineering** (pipelines, dimensional design).
 
-- 🔭 Currently focused on: building reliable dbt models on a modern data stack
+- 🔭 Currently focused on: building reliable data models on a modern data stack
 - 🌱 Currently learning: data orchestration & advanced dbt patterns
 - 💬 Ask me about: SQL, dbt, dimensional modeling, BI dashboard design
 
